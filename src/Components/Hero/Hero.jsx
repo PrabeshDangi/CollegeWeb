@@ -7,10 +7,10 @@ const Hero = () => {
     <div className='hero container'>
         <div className="hero-text">
             <h1>
-                We ensure better education for a better world
+            We ensure improved learning for a better society.
 
             </h1>
-            <p>Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education
+            <p>Our innovative curriculum is made to give students the information, abilities, and experiences they need to succeed in the fast-paced field of education.
 
             </p>
             <button className="btn">Explore More <img src={arrow} alt="Arrow"/></button>
